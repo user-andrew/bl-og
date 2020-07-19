@@ -51,7 +51,7 @@ html {
   position: relative;
   left: calc(50% - 240px);
   transition: all 1s;
-  margin-bottom: 480px;
+  margin-bottom: 440px;
 }
 
 .logo_component {
