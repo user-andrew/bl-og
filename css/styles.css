@@ -266,7 +266,7 @@ iframe {
 @media only screen and (max-width: 880px) {
   .retired {
     
-    padding: 0px 40px;
+    padding: 0px 10px;
     font-size: 24px;
   }
   
