@@ -27,7 +27,8 @@ html {
 }
 
 .maintenance-title {
-  max-width: 1500px;
+  max-width: 1400px;
+  width: 100%;
   font-weight: 700;
   padding: 12px 24px;
   text-align: center;
