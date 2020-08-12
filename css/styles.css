@@ -23,7 +23,7 @@ html {
 .header-container {
   display: flex;
   width: 100%;
-  user-select: none;
+  user-select: text;
 }
 
 .maintenance-title {
