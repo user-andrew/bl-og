@@ -1,0 +1,22 @@
+{
+  "itn": {
+  "owner": "",
+  "witness": ""
+  },
+  "adapools": {
+  "url_png_logo": "https://www.astra-pool.com/pool-logo.png",
+  "location": "Frankfurt, Germany",
+  "social": {
+      "twitter_handle": "AdStake",
+      "telegram_handle": "Sc9wIgtnyiAhbFnooXaKhA",
+      "facebook_handle": "astra.stakepool",
+      "youtube_handle": "UCJuYDWO_PpS3PDnn-QMc50Q",
+      "twitch_handle": "",
+      "discord_handle": ""
+  },
+    "about": {
+        "me": "I am a hardworking, dedicated, stake pool operator who is originally from the UK but currently living in Germany. I have made videos on my YouTube channel to help aspiring stake pool operators and I have featured in Adam Stokes' videos. Mr. Adam Stokes is a prominant Crypto YouTuber. I am happy to answer ANY questions you may have about staking. Please feel free to contact me via FB, Telegram, or Twitter.",
+        "server": "I have 1 block producer (the main node) + 4 relays distributed in the USA, Europe, and Asia for maximum coverage."
+    }
+  }
+}
