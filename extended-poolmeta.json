@@ -4,7 +4,8 @@
   "witness": ""
   },
   "adapools": {
-  "url_png_logo": "https://www.astra-pool.com/pool-logo.png",
+  "url_png_icon_64x64": "https://www.astra-pool.com/url_png_icon",
+  "url_png_logo": <img src="https://www.astra-pool.com/pool-logo.png" width="100%">,
   "location": "Frankfurt, Germany",
   "social": {
       "twitter_handle": "AdStake",
