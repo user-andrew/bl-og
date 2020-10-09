@@ -16,7 +16,7 @@
       "discord_handle": ""
   },
     "about": {
-        "me": "I am a hardworking, dedicated, stake pool operator with an I.T. and filmmaking background - focussed on maintaining a great stake pool, while also contributing to the Cardano community by making informative and inspirational YouTube videos about our favourite blockchain.",
+        "me": "I am a hardworking, dedicated, stake pool operator with an I.T. and filmmaking background. My focus is on maintaining a great stake pool, while also contributing to the Cardano community by making informative and inspirational YouTube videos about our favourite blockchain.",
         "server": "1 block producer (the main node) + multiple relays distributed around the world for maximum coverage."
     }
   }
