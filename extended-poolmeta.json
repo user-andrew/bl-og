@@ -16,7 +16,7 @@
       "discord_handle": ""
   },
     "about": {
-        "me": "Ad Astra Stake Pool is managed by a dedicated stake pool operator with an I.T. and filmmaking background. Our focus is on maintaining a great stake pool, while also contributing to the Cardano community by making informative and inspirational videos about our favourite blockchain. We believe that communication is key to driving mass adoption. Your delegation will not only earn you more ADA, but it will also support the creation of more Cardano content on our YouTube channel.",
+        "me": "Ad Astra Stake Pool is managed by a dedicated stake pool operator with an I.T. and filmmaking background. Our focus is on maintaining a great stake pool, while also contributing to the Cardano community by making informative and inspirational videos about our favourite blockchain. We believe that communication is key to driving mass adoption. Your delegation will not only earn you more ADA, but it will also support the creation of quality Cardano content on our YouTube channel.",
         "server": "1 block producer (the main node) + multiple relays distributed around the world for maximum coverage.",
         "company": "Our fees are set to the minimum: 340 ADA fixed fee and 0% variable fee. Our variable fee will gradually increase over time as the pool becomes more saturated. This fee will always be reasonable, always be competitive, and never be over 5%."
     }
