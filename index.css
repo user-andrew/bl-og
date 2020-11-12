@@ -194,12 +194,8 @@ header table {
 #photos img {
     width:100%;
     height:auto;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+    margin:4.5% 0px;
     transition:0.4s ease-in-out;
-}
 #photos img:hover {
     transform: scale(1.1);
     cursor: pointer;
