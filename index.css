@@ -315,6 +315,10 @@ button:focus {
         transform: scale(1);
         cursor: pointer;
     }
+    .responsive {
+  max-width: 80%;
+  height: auto;
+    }
     #rightImage {
         display:none;
     }
