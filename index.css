@@ -503,3 +503,11 @@ button:focus {
   width: 50%;
   max-width: 300px;
 }
+
+.img-yt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: auto;
+}
