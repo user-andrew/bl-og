@@ -510,5 +510,5 @@ button:focus {
   margin-right: auto;
   width: 50%;
   min-width: 700px;
-  max-width: 800px;
+  max-width: auto;
 }
