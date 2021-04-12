@@ -16,9 +16,9 @@
       "discord_handle": ""
   },
     "about": {
-        "me": "Our first priority will always be to run a reliable and secure stake pool to ensure that our delegators are taken care of. This means following a best practice approach to upgrading and monitoring our systems. Our secondary focus is on creating educational and inspirational content about our favorite blockchain: Cardano.",
-        "server": "Our nodes are hosted on award-winning VPS servers with 100% SSD storage for faster read and write speeds, 99.99% uptime, and enterprize-grade infrastructure. We have multiple relay nodes located around the world to ensure optimal connection to all parts of the network.",
-        "company": "We believe that communication is key to driving mass adoption of our favorite blockchain. The best materials promoting Cardano are very often hidden within long presentations; remaining unseen to a wider audience. We love finding these gems and turning them into short, inspirational, accessible videos that can be shared on YouTube and other platforms. Your delegation will not only earn you more ADA, but it will also support the creation of great Cardano content."
+        "me": "Established in June 2020, our Cardano stake pool has been around since the Cardano mainnet launch. We're proud to be part of the Cardano stake pool community. In our spare time, we like to create educational YouTube content highlighting positive aspects of Cardano.",
+        "server": "Our stake pool consists of 4 nodes: 1 block producing node, 2 relays, and 1 back-up block producer. Each node has 4 CPUs, 8GB of RAM, 8GB SWAP, 100% SSD storage, and 99.99% server uptime. Our nodes can easily be upgraded to higher specs as the protocol demands.",
+        "company": "Ad Astra Stake Pool strives to be a valuable member of the Cardano stake pool community by minting blocks, helping others to start pools, and making educational videos on our YouTube channel. We would be very happy to be your Cardano stake pool of choice."
     }
   }
 }
