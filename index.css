@@ -34,6 +34,7 @@ body {
 }
 header {
     width:92vw;
+    height: 46vw;
     padding:6vh 4vw;
     position:fixed;
     font-weight:bold;
