@@ -34,7 +34,6 @@ body {
 }
 header {
     width:92vw;
-    height: 46vw;
     padding:6vh 4vw;
     position:fixed;
     font-weight:bold;
@@ -47,7 +46,7 @@ header table {
     width:100%;
 }
 #logo {
-    width:20%; height:20%;
+    width:20%;
 }
 #navigation {
     width:80%;
