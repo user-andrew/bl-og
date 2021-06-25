@@ -162,8 +162,8 @@ header table {
     background:rgb(255, 44, 90);
 }
 #rightImage {
-    width:60%;
-    height:60%;
+    max-width:100%;
+    max-height:100%;
     background:linear-gradient(0deg,rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url("https://astra-pool.com/right-image-654x654.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=60") center center;
     background-size:cover;
     background-repeat:no-repeat;
