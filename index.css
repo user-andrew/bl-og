@@ -44,7 +44,6 @@ header {
 }
 header table {
     width:100%;
-    max-width: 1280px;
 }
 #logo {
     width:20%;
@@ -101,8 +100,6 @@ header table {
 }
 #top_part {
     width:100%;
-    max-width:1280px;
-    max-height:700px;
     border:2vh solid #fff;
 }
 #top_part tr td{
