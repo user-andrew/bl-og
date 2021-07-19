@@ -106,6 +106,7 @@ header table {
     width:50%;
 }
 #about {
+    color:rgb(37, 145, 193);
     width:84% !important;
     height:95vh;
     display:flex;
